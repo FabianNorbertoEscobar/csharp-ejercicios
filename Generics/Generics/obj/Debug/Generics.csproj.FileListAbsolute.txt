@@ -1,0 +1,6 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Generics\Generics\bin\Debug\Generics.exe.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Generics\Generics\bin\Debug\Generics.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Generics\Generics\bin\Debug\Generics.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Generics\Generics\obj\Debug\Generics.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Generics\Generics\obj\Debug\Generics.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

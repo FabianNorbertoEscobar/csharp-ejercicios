@@ -1,0 +1,6 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Archivos\Archivos\bin\Debug\Archivos.exe.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Archivos\Archivos\bin\Debug\Archivos.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Archivos\Archivos\bin\Debug\Archivos.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Archivos\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Archivos\Archivos\obj\Debug\Archivos.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Archivos\Archivos\obj\Debug\Archivos.pdb

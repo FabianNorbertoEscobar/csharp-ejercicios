@@ -1,0 +1,4 @@
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\ClassLibrary Saludar\bin\Debug\ClassLibrary Saludar.dll
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\ClassLibrary Saludar\bin\Debug\ClassLibrary Saludar.pdb
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\ClassLibrary Saludar\obj\Debug\ClassLibrary Saludar.dll
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\ClassLibrary Saludar\obj\Debug\ClassLibrary Saludar.pdb

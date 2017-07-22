@@ -1,0 +1,6 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Clientes - Herencia\Clientes - Herencia\bin\Debug\Clientes - Herencia.exe.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Clientes - Herencia\Clientes - Herencia\bin\Debug\Clientes - Herencia.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Clientes - Herencia\Clientes - Herencia\bin\Debug\Clientes - Herencia.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Clientes - Herencia\Clientes - Herencia\obj\Debug\Clientes - Herencia.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Clientes - Herencia\Clientes - Herencia\obj\Debug\Clientes - Herencia.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Clientes - Herencia\Clientes - Herencia\obj\Debug\Clientes - Herencia.pdb

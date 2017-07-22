@@ -1,0 +1,6 @@
+C:\FABIAN\Desarrollo Web en .NET\Saludo\Saludo\bin\Debug\Saludo.exe.config
+C:\FABIAN\Desarrollo Web en .NET\Saludo\Saludo\bin\Debug\Saludo.exe
+C:\FABIAN\Desarrollo Web en .NET\Saludo\Saludo\bin\Debug\Saludo.pdb
+C:\FABIAN\Desarrollo Web en .NET\Saludo\Saludo\obj\Debug\Saludo.csprojResolveAssemblyReference.cache
+C:\FABIAN\Desarrollo Web en .NET\Saludo\Saludo\obj\Debug\Saludo.exe
+C:\FABIAN\Desarrollo Web en .NET\Saludo\Saludo\obj\Debug\Saludo.pdb

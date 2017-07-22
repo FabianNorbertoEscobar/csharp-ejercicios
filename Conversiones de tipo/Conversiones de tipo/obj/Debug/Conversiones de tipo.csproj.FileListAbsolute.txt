@@ -1,0 +1,6 @@
+I:\UNLaM\DESARROLLO WEB - POLO\C# - ASP.NET\C# - Aplicaciones de consola\Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.exe.config
+I:\UNLaM\DESARROLLO WEB - POLO\C# - ASP.NET\C# - Aplicaciones de consola\Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.exe
+I:\UNLaM\DESARROLLO WEB - POLO\C# - ASP.NET\C# - Aplicaciones de consola\Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.pdb
+I:\UNLaM\DESARROLLO WEB - POLO\C# - ASP.NET\C# - Aplicaciones de consola\Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO\C# - ASP.NET\C# - Aplicaciones de consola\Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.exe
+I:\UNLaM\DESARROLLO WEB - POLO\C# - ASP.NET\C# - Aplicaciones de consola\Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.pdb

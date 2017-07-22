@@ -1,0 +1,8 @@
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\Saludo en capas\bin\Debug\Saludo en capas.exe.config
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\Saludo en capas\obj\Debug\Saludo en capas.csprojResolveAssemblyReference.cache
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\Saludo en capas\bin\Debug\Saludo en capas.exe
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\Saludo en capas\bin\Debug\Saludo en capas.pdb
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\Saludo en capas\bin\Debug\ClassLibrary Saludar.dll
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\Saludo en capas\bin\Debug\ClassLibrary Saludar.pdb
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\Saludo en capas\obj\Debug\Saludo en capas.exe
+C:\FABIAN\Desarrollo Web en .NET\Saludo en capas\Saludo en capas\obj\Debug\Saludo en capas.pdb

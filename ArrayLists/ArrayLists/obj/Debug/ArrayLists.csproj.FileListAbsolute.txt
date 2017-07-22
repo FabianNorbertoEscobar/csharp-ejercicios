@@ -1,0 +1,6 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\ArrayLists\ArrayLists\bin\Debug\ArrayLists.exe.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\ArrayLists\ArrayLists\bin\Debug\ArrayLists.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\ArrayLists\ArrayLists\bin\Debug\ArrayLists.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\ArrayLists\ArrayLists\obj\Debug\ArrayLists.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\ArrayLists\ArrayLists\obj\Debug\ArrayLists.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\ArrayLists\ArrayLists\obj\Debug\ArrayLists.pdb

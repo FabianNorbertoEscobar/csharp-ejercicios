@@ -1,0 +1,6 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Empleados\Empleados\bin\Debug\Empleados.exe.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Empleados\Empleados\bin\Debug\Empleados.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Empleados\Empleados\bin\Debug\Empleados.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Empleados\Empleados\obj\Debug\Empleados.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Empleados\Empleados\obj\Debug\Empleados.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Empleados\Empleados\obj\Debug\Empleados.pdb

@@ -1,0 +1,5 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Cliente - Clase Abstracta\Cliente - Clase Abstracta\bin\Debug\Cliente - Clase Abstracta.exe.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Cliente - Clase Abstracta\Cliente - Clase Abstracta\bin\Debug\Cliente - Clase Abstracta.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Cliente - Clase Abstracta\Cliente - Clase Abstracta\bin\Debug\Cliente - Clase Abstracta.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Cliente - Clase Abstracta\Cliente - Clase Abstracta\obj\Debug\Cliente - Clase Abstracta.exe
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\C# - Aplicaciones de consola\Cliente - Clase Abstracta\Cliente - Clase Abstracta\obj\Debug\Cliente - Clase Abstracta.pdb

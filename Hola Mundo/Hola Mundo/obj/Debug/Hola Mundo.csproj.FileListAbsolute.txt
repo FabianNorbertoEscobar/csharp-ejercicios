@@ -1,0 +1,6 @@
+C:\FABIAN\Desarrollo Web en .NET\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+C:\FABIAN\Desarrollo Web en .NET\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+C:\FABIAN\Desarrollo Web en .NET\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+C:\FABIAN\Desarrollo Web en .NET\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.csprojResolveAssemblyReference.cache
+C:\FABIAN\Desarrollo Web en .NET\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.exe
+C:\FABIAN\Desarrollo Web en .NET\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.pdb
